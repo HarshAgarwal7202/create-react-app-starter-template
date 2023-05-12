@@ -7,7 +7,7 @@ This is a simple starter template for building React applications. The template 
 To use this starter template, simply clone the repository and install the dependencies by running the following commands:
 
 ```
-git clone https://github.com/tier3guy/create-react-app-starter-template
+git clone https://github.com/HarshAgarwal7202/create-react-app-starter-template.git
 cd my-app
 npm install
 ```
